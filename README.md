@@ -30,4 +30,5 @@ User login system
 Better UI animations
 
 👨‍💻 Author
-`Somu
+`Somudra
+Ankita 
